@@ -5,5 +5,5 @@
 ### I don't have the skills.
 ### I can't give code examples.
 ### I have no experience working in this environment.
-### Secondary education - grades 9.
-### English at A2 level.
+## Secondary education - grades 9.
+## English at A2 level.
